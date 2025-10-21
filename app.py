@@ -45,3 +45,4 @@ if st.button("predict"):
 
 
 
+st.write("This project is done by Mahesh Thapa")
